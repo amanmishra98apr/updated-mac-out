@@ -1,0 +1,6 @@
+Django==2.2
+gunicorn==20.0.4
+pycrypto==2.6.1
+pymsgbox
+Pillow==2.2.2
+
